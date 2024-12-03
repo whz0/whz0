@@ -11,9 +11,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=WHZ0&theme=github_dark_dimmed&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=WHZ0&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WHZ0&theme=cobalt2&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
