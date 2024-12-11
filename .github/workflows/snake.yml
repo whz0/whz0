@@ -15,7 +15,7 @@ jobs:
       - name: Generar animación de la serpiente
         uses: Platane/snk@v2
         with:
-          github_user_name: tu-usuario
+          github_user_name: whz0
           outputs: dist/snake.svg
 
       - name: Subir animación al repositorio
