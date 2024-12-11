@@ -36,9 +36,7 @@ Aquí te presento un poco de lo que puedo hacer:
 
 ---
 
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/username/repository/main/banner.png" alt="Banner personal" width="600px"/>  
-</p>  
+<img src="https://[tu-usuario].github.io/[tu-repositorio]/snake.svg" alt="snake animation" />
 
 <p align="center">  
   🚀 Desarrollando soluciones con ❤️ y código.  
