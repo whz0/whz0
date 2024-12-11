@@ -1,20 +1,45 @@
-## About Me:
-<br>👨‍💻Futuro infeniero Software</br><br>📔​Aprendiendo de forma constante</br><br>🏫​​Universidad Complutense Madrid (UCM)</br>
+# 🌟 Bienvenido a mi Perfil  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Wei-Hong-Zhu) 
+Hola, soy [Tu Nombre] 👋, apasionado/a por la tecnología, el aprendizaje continuo y la creación de soluciones innovadoras. Me gusta resolver problemas complejos y trabajar en proyectos que tengan un impacto positivo. 🚀  
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=WHZ0&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=WHZ0&theme=github_dark_dimmed&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WHZ0&theme=github_dark_dimmed&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+## 🧠 Aptitudes  
+Aquí te presento un poco de lo que puedo hacer:  
+- **Resolución de problemas:** Enfoque lógico y pensamiento crítico para abordar desafíos.  
+- **Trabajo en equipo:** Habilidad para colaborar y coordinar esfuerzos con equipos multidisciplinarios.  
+- **Adaptabilidad:** Capacidad para aprender nuevas tecnologías y adaptarme a cambios rápidamente.  
+- **Gestión del tiempo:** Organización efectiva para cumplir con plazos y prioridades.  
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## 💻 Tecnologías que manejo  
+- **Lenguajes de programación:**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+
+- **Frameworks y Librerías:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
+
+- **Herramientas y plataformas:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+
+## 🎨 Decoración final  
+> 💡 *“La creatividad es la inteligencia divirtiéndose.” – Albert Einstein*  
+
+🌈 Algunas cosas más sobre mí:  
+- 📖 Actualmente aprendiendo: **[Tecnología de tu interés]**  
+- 🎯 Objetivo profesional: **[Tu objetivo]**  
+- 📫 ¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/tu-perfil/)!  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=WHZ0&icon=2&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">  
+  <img src="https://raw.githubusercontent.com/username/repository/main/banner.png" alt="Banner personal" width="600px"/>  
+</p>  
+
+<p align="center">  
+  🚀 Desarrollando soluciones con ❤️ y código.  
+</p>
