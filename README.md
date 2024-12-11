@@ -36,7 +36,7 @@ Aquí te presento un poco de lo que puedo hacer:
 
 ---
 
-<img src="https://[tu-usuario].github.io/[tu-repositorio]/snake.svg" alt="snake animation" />
+<img src="https://[tu-usuario].github.io/whz0/snake.svg" alt="snake animation" />
 
 <p align="center">  
   🚀 Desarrollando soluciones con ❤️ y código.  
