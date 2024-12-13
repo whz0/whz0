@@ -1,6 +1,6 @@
 # 🌟 Bienvenido a mi Perfil  
 
-Hola, soy [Tu Nombre] 👋, apasionado/a por la tecnología, el aprendizaje continuo y la creación de soluciones innovadoras. Me gusta resolver problemas complejos y trabajar en proyectos que tengan un impacto positivo. 🚀  
+Hola, soy whz0 👋, apasionado/a por la tecnología, el aprendizaje continuo y la creación de soluciones innovadoras. Me gusta resolver problemas complejos y trabajar en proyectos que tengan un impacto positivo. 🚀  
 
 ## 🧠 Aptitudes  
 Aquí te presento un poco de lo que puedo hacer:  
@@ -28,13 +28,6 @@ Aquí te presento un poco de lo que puedo hacer:
 
 ## 🎨 Decoración final  
 > 💡 *“La creatividad es la inteligencia divirtiéndose.” – Albert Einstein*  
-
-🌈 Algunas cosas más sobre mí:  
-- 📖 Actualmente aprendiendo: **[Tecnología de tu interés]**  
-- 🎯 Objetivo profesional: **[Tu objetivo]**  
-- 📫 ¡Conéctate conmigo en [LinkedIn](https://www.linkedin.com/tu-perfil/)!  
-
----
 
 <img src="https://whz0.github.io/whz0/snake.svg" alt="snake animation" />
 
