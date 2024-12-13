@@ -29,7 +29,7 @@ Aquí te presento un poco de lo que puedo hacer:
 ## 🎨 Decoración final  
 > 💡 *“La creatividad es la inteligencia divirtiéndose.” – Albert Einstein*  
 
-<img src="https://whz0.github.io/whz0/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/whz0/whz0/output/snake.svg" alt="snake animation" />
 
 <p align="center">  
   🚀 Desarrollando soluciones con ❤️ y código.  
