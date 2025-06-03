@@ -1,6 +1,6 @@
 # 🌟 Bienvenido a mi Perfil  
 
-Hola, soy whz0 👋, apasionado/a por la tecnología, el aprendizaje continuo y la creación de soluciones innovadoras. Me gusta resolver problemas complejos y trabajar en proyectos que tengan un impacto positivo. 🚀  
+Hola, soy Weihong 👋, apasionado/a por la tecnología, el aprendizaje continuo y la creación de soluciones innovadoras. Me gusta resolver problemas complejos y ampliar mis áreas de conocimiento con tecnologías emergentes. 🚀  
 
 ## 🧠 Aptitudes  
 Aquí te presento un poco de lo que puedo hacer:  
@@ -17,7 +17,7 @@ Aquí te presento un poco de lo que puedo hacer:
   ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 
 - **Frameworks y Librerías:**  
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+  ![Spring](https://img.shields.io/badge/Spring)  
   ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
 
